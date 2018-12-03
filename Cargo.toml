@@ -1,0 +1,10 @@
+[package]
+name = "bob"
+version = "0.1.0"
+authors = ["Kristoffer <kristoffer@microdisko.no>"]
+
+[dependencies]
+ws = "*"
+serde_json = "*"
+serde = "*"
+reqwest = "*"
